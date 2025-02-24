@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Futura Cyrillic Demi";
+   src: url("fonts/Futura Cyrillic Demi.woff") format("woff"), url("fonts/Futura Cyrillic Demi.eot") format("embedded-opentype"), url("fonts/Futura Cyrillic Demi.ttf") format("truetype"), url("fonts/Futura Cyrillic Demi.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura Cyrillic Book";
+   src: url("fonts/Futura Cyrillic Book.woff") format("woff"), url("fonts/Futura Cyrillic Book.eot") format("embedded-opentype"), url("fonts/Futura Cyrillic Book.ttf") format("truetype"), url("fonts/Futura Cyrillic Book.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura Cyrillic Light";
+   src: url("fonts/Futura Cyrillic Light.woff") format("woff"), url("fonts/Futura Cyrillic Light.eot") format("embedded-opentype"), url("fonts/Futura Cyrillic Light.ttf") format("truetype"), url("fonts/Futura Cyrillic Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura Cyrillic Heavy";
+   src: url("fonts/Futura Cyrillic Heavy.woff") format("woff"), url("fonts/Futura Cyrillic Heavy.eot") format("embedded-opentype"), url("fonts/Futura Cyrillic Heavy.ttf") format("truetype"), url("fonts/Futura Cyrillic Heavy.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
