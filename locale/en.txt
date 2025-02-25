@@ -5,16 +5,16 @@
 ### Floorplan
 
 ### Image
-imlevel_370C2E12_38C9_87E9_41BB_8029592FBE03.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_0.png
-imlevel_370C0E12_38C9_87E9_41AB_6E53DA601163.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_1.png
-imlevel_370C7E12_38C9_87E9_41B0_18E720865E09.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_2.png
-imlevel_370C5E12_38C9_87E9_41C3_0D3F795CD947.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_3.png
-imlevel_370C4E12_38C9_87E9_418F_9188913D8AA4.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_4.png
-imlevel_370D5DFE_38C9_8419_41BB_C777836A538E.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_0.png
-imlevel_370D4DFE_38C9_8419_41C0_59F7C5CCC0D9.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_1.png
-imlevel_370CADFE_38C9_8419_4186_E93D87194CE7.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_2.png
-imlevel_370C8DFE_38C9_8419_419D_FC9CC15AACBA.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_3.png
-imlevel_370CFDFE_38C9_8419_41A4_6E414EEF3AE8.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_4.png
+imlevel_2F9519A1_3D83_DC69_41AA_97D3189D2FF8.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_0.png
+imlevel_2F9539A1_3D83_DC69_41C7_0BE3546BCB8A.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_1.png
+imlevel_2F9529A2_3D83_DC6B_41CD_591C5D2400C6.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_2.png
+imlevel_2F95F9A2_3D83_DC6B_41C7_3F3AC367D0B7.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_3.png
+imlevel_2F95E9A2_3D83_DC6B_41C3_8943B602B7AA.url = media/map_20B16D76_3328_B743_41B7_6093D3531697_en_4.png
+imlevel_2F947982_3D83_DC2B_4195_18F3CE4AB58D.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_0.png
+imlevel_2F946982_3D83_DC2B_41C6_AEC9CA92E830.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_1.png
+imlevel_2F941982_3D83_DC2B_41BB_F6A17961DA22.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_2.png
+imlevel_2F94D982_3D83_DC2B_41BA_4F6D1213EFAD.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_3.png
+imlevel_2F94C982_3D83_DC2B_41A1_03CE88811776.url = media/map_20B93B5F_3328_7341_41C0_1C1D2C7A5A9B_en_4.png
 
 ### Subtitle
 panorama_38302AFB_3327_9D41_41A5_A6ED2BA456E2.subtitle = BACK ENTRANCE
@@ -99,11 +99,15 @@ panorama_380F6D3D_3327_94C0_41A3_2065E3AECDD7.label = VR9
 ## Skin
 
 ### Button
+Button_0EC63DA5_33D9_97C1_41C1_F9FBC4C2143A_mobile.label = First Floor
 Button_0EC63DA5_33D9_97C1_41C1_F9FBC4C2143A.label = First Floor
 Button_0D0294EA_33D9_9543_41B4_EC6756557E66.label = Ground Floor
+Button_0D0294EA_33D9_9543_41B4_EC6756557E66_mobile.label = Ground Floor
 
 ### Multiline Text
+HTMLText_1CA84623_33F8_94C0_41C2_2C90D33CECF1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:7px;font-family:'Futura Cyrillic Light';"><B>All rights reserved to the home owner and design team</B></SPAN></SPAN></DIV></div>
 HTMLText_1CA84623_33F8_94C0_41C2_2C90D33CECF1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:14px;font-family:'Futura Cyrillic Light';"><B>All rights reserved to the home owner and design team</B></SPAN></SPAN></DIV></div>
+HTMLText_1DDBC4DC_33F8_9547_41C3_51BE07798080_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.5px; white-space:pre-wrap;color:#ffffff;font-size:14.5px;font-family:'Futura Cyrillic Demi';">NR3-CLASSIC VILLA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:3px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.5px; white-space:pre-wrap;color:#ffffff;font-size:9px;font-family:'Futura Cyrillic Book';"><B><I>{{subtitle}}</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:9px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_1DDBC4DC_33F8_9547_41C3_51BE07798080.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:29px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:1px; white-space:pre-wrap;color:#ffffff;font-size:29px;font-family:'Futura Cyrillic Demi';">NR3-CLASSIC VILLA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:1px; white-space:pre-wrap;color:#ffffff;font-size:15px;font-family:'Futura Cyrillic Book';"><B><I>{{subtitle}}</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
